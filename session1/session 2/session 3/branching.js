@@ -59,21 +59,21 @@
 //      }
 //     }
  
- let username = "c4e33";
- let password = "codethechange";
+//  let username = "c4e33";
+//  let password = "codethechange";
 
- let usernameLogin = prompt("username?");
+//  let usernameLogin = prompt("username?");
 
-  if (usernameLogin === username){
-    let passwordLogin = prompt("password?");
-    if (passwordLogin === password) {
-        console.log("welcome ${ usernameLogin}");
-    } else {
-        console.log("wrong password");
-    }
-} else {
-    console.log("user not found");
-}
+//   if (usernameLogin === username){
+//     let passwordLogin = prompt("password?");
+//     if (passwordLogin === password) {
+//         console.log("welcome ${ usernameLogin}");
+//     } else {
+//         console.log("wrong password");
+//     }
+// } else {
+//     console.log("user not found");
+// }
  
 
 
